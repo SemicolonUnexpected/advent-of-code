@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-path = 'day_1_input.py'
+path = 'day_1_input.txt'
 
 
 def one():
